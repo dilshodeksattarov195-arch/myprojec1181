@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasepave",
+        "uuid": 6620686,
+        "checksum": "t2gdm"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
